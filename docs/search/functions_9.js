@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['onconfiguring_0',['OnConfiguring',['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_data_base_1_1_app_context.html#abe41037cba106d1634ca428618f852ae',1,'KR_SQLite_NewTry_2_MVC.DataBase.AppContext.OnConfiguring()'],['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_data_base_1_1_log_context.html#aa3720d3ef3f54d11fad8c92e0f4de7f3',1,'KR_SQLite_NewTry_2_MVC.DataBase.LogContext.OnConfiguring()']]],
+  ['onpropertychanged_1',['OnPropertyChanged',['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_controllers_1_1_analytics_controller.html#a1bdb77fee20f7c9582cd472688134560',1,'KR_SQLite_NewTry_2_MVC.Controllers.AnalyticsController.OnPropertyChanged()'],['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_controllers_1_1_main_controller.html#a28a50818e05a62142ff1a9ae86f39d20',1,'KR_SQLite_NewTry_2_MVC.Controllers.MainController.OnPropertyChanged()'],['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_controllers_1_1_reports_controller.html#a19cdc96422afc3a96956f9c0c00e3f6e',1,'KR_SQLite_NewTry_2_MVC.Controllers.ReportsController.OnPropertyChanged()']]]
+];

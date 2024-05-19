@@ -1,0 +1,131 @@
+<Window x:Class="KR_SQLite_NewTry_2_MVC.Views.AnalyticsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Аналитика" Height="800" Width="1200"
+        WindowStartupLocation="CenterScreen"
+        Background="White"
+        Icon="pack://application:,,,/logo_1.ico">
+    
+    
+    
+    <Window.Resources>
+        <!-- Стиль для вкладок -->
+        <Style TargetType="TabItem">
+            <Setter Property="Background" Value="#007ACC" />
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="FontFamily" Value="Segoe UI" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Padding" Value="10,5" />
+        </Style>
+        <!-- Стиль для таблиц -->
+        <Style TargetType="DataGrid">
+            <Setter Property="FontFamily" Value="Segoe UI" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="BorderBrush" Value="#007ACC" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="RowHeaderWidth" Value="0" />
+            <Setter Property="VerticalAlignment" Value="Stretch" />
+            <Setter Property="HorizontalAlignment" Value="Stretch" />
+            <Setter Property="IsReadOnly" Value="True" />
+            <Setter Property="IsHitTestVisible" Value="False" />
+            <Setter Property="CanUserSortColumns" Value="False" />
+            <Setter Property="CanUserReorderColumns" Value="False" />
+            <Setter Property="CanUserResizeColumns" Value="False" />
+        </Style>
+        <!-- Стиль для строк таблиц -->
+        <Style TargetType="DataGridRow">
+            <Setter Property="Height" Value="40" />
+            <Setter Property="Background" Value="{Binding Color}" />
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="FontWeight" Value="Normal" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="FontFamily" Value="Segoe UI" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="BorderBrush" Value="LightGray" />
+            <Setter Property="Margin" Value="0,2" />
+            <Style.Triggers>
+                <!-- При наведении курсора на строку -->
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FFC0C0C0" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <!-- Таблицы с аналитикой -->
+        <TabControl>
+            <TabItem Header="Просроченные товары">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="{Binding ExpiredItemsCountText}" FontSize="16" FontWeight="Bold" Margin="10"/>
+                    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                        <DataGrid ItemsSource="{Binding ExpiredItems}" Background="#F44242" AutoGenerateColumns="False">
+                            <DataGrid.RowStyle>
+                                <Style TargetType="DataGridRow" BasedOn="{StaticResource {x:Type DataGridRow}}" />
+                            </DataGrid.RowStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Название" Binding="{Binding Name}" Width="*" />
+                                <DataGridTextColumn Header="Дата поступления" Binding="{Binding CreationDate}" Width="*" />
+                                <DataGridTextColumn Header="Дата выдачи" Binding="{Binding ExpiryDate}" Width="*" />
+                                <DataGridTextColumn Header="Колличество просроченных дней" Binding="{Binding AbsoluteRemainingDays}" Width="*" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+            <TabItem Header="С истекающим сроком">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="{Binding ExpiringItemsCountText}" FontSize="16" FontWeight="Bold" Margin="10"/>
+                    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                        <DataGrid ItemsSource="{Binding ExpiringItems}" Background="#F4A742" AutoGenerateColumns="False">
+                            <DataGrid.RowStyle>
+                                <Style TargetType="DataGridRow" BasedOn="{StaticResource {x:Type DataGridRow}}" />
+                            </DataGrid.RowStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Название" Binding="{Binding Name}" Width="*" />
+                                <DataGridTextColumn Header="Дата поступления" Binding="{Binding CreationDate}" Width="*" />
+                                <DataGridTextColumn Header="Дата выдачи" Binding="{Binding ExpiryDate}" Width="*" />
+                                <DataGridTextColumn Header="Оставшиеся дни" Binding="{Binding RemainingDays}" Width="*" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Нормальный срок">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="{Binding NormalItemsCountText}" FontSize="16" FontWeight="Bold" Margin="10"/>
+                    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                        <DataGrid ItemsSource="{Binding NormalItems}" Background="#5EF442" AutoGenerateColumns="False">
+                            <DataGrid.RowStyle>
+                                <Style TargetType="DataGridRow" BasedOn="{StaticResource {x:Type DataGridRow}}" />
+                            </DataGrid.RowStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Название" Binding="{Binding Name}" Width="*" />
+                                <DataGridTextColumn Header="Дата поступления" Binding="{Binding CreationDate}" Width="*" />
+                                <DataGridTextColumn Header="Дата выдачи" Binding="{Binding ExpiryDate}" Width="*" />
+                                <DataGridTextColumn Header="Оставшиеся дни" Binding="{Binding RemainingDays}" Width="*" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

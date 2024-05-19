@@ -1,0 +1,101 @@
+﻿<Window x:Class="KR_SQLite_NewTry_2_MVC.Views.StartUpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:KR_SQLite_NewTry_2_MVC.Views"
+        mc:Ignorable="d"
+        Title="StartUpWindow" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Icon="pack://application:,,,/logo_1.ico">
+    
+    
+    <Grid Background="#242829">
+        <!--<Grid.Background>
+            <LinearGradientBrush EndPoint="0.7,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF02315E" Offset="0.468"/>
+                <GradientStop Color="#FF2F70AF" Offset="0.833"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        -->
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Grid.Row="0" Text="Склад" 
+                   Foreground="White" FontSize="30" FontWeight="Bold" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <Separator Grid.Row="1" Margin="10"/>
+        
+        <TextBlock Grid.Row="2" Text="Зиновьев Леонид" 
+                   Foreground="White" FontSize="20" FontWeight="Medium"
+                   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5"/>
+        
+        <TextBlock Grid.Row="3" Text="22ВП2" 
+                   Foreground="White" FontSize="18" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5"/>
+        
+        <TextBlock Grid.Row="4" Text=""
+                   Name="Load" FontWeight="Bold"
+                   Foreground="OrangeRed" FontSize="20" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20"/>
+        
+        <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                    Height="59" Width="210" Margin="10">
+            <Button Content="Работать" 
+                    Click="OpenButton_Click" 
+                    Margin="2,2,20,2" 
+                    Command="{Binding StartWorkCommand}" 
+                    CommandParameter="{Binding 
+                    RelativeSource={RelativeSource FindAncestor, 
+                    AncestorType={x:Type Window}}}" 
+                    Width="101">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#FF00CC47"/>
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="FontSize" Value="16"/>
+                        <Setter Property="Padding" Value="10,5"/>
+                        <Setter Property="BorderThickness" Value="0"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF00A839"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FF007F2B"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button Content="Выход" 
+                    Click="ExitButton_Click" 
+                    Width="82">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#FFCC004A"/>
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="FontSize" Value="16"/>
+                        <Setter Property="Padding" Value="10,5"/>
+                        <Setter Property="BorderThickness" Value="0"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FFA8003A"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FF80002B"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

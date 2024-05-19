@@ -1,0 +1,270 @@
+﻿<Window x:Class="KR_SQLite_NewTry_2_MVC.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Главное окно" Height="860" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        Closing="MainWindow_Closing"
+        Icon="pack://application:,,,/logo_1.ico">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF02315E" Offset="0.468"/>
+            <GradientStop Color="#FF2F70AF" Offset="0.833"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Window.Resources>
+        <Style x:Key="ModernButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#B9848C"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="Height" Value="27"/>
+            <Setter Property="Width" Value="180"/>
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                            BorderThickness="{TemplateBinding BorderThickness}" 
+                            BorderBrush="{TemplateBinding BorderBrush}" 
+                            CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#59146e"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#360440"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Foreground" Value="#B9848C"/>
+                                <Setter Property="Background" Value="#E0E0E0"/>
+                                <Setter Property="BorderBrush" Value="#B9848C"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <ContextMenu x:Key="DataGridContextMenu">
+            <ContextMenu.Style>
+                <Style TargetType="ContextMenu">
+                    <Setter Property="OverridesDefaultStyle" Value="True"/>
+                    <Setter Property="Margin" Value="0,10,0,0"/>
+                    <Setter Property="Placement" Value="MousePoint"/>
+                    <Setter Property="HasDropShadow" Value="True"/>
+                    <Setter Property="SnapsToDevicePixels" Value="True"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="ContextMenu">
+                                <Border Background="#FFFFFF" BorderBrush="#B9848C" BorderThickness="1" CornerRadius="5">
+                                    <StackPanel IsItemsHost="True"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </ContextMenu.Style>
+            <MenuItem Header="Редактировать" Click="ChangeObject_Click"/>
+            <MenuItem Header="Удалить" Click="DeleteObject_Click"/>
+        </ContextMenu>
+
+        <Style TargetType="DataGrid">
+            <Setter Property="AlternatingRowBackground" Value="#f2f2f2"/>
+            <Setter Property="RowBackground" Value="White"/>
+            <Setter Property="HeadersVisibility" Value="Column"/>
+            <Setter Property="ColumnHeaderStyle">
+                <Setter.Value>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="#FF806491"/>
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="16"/>
+                        <Style.Triggers>
+                            <Trigger Property="SortDirection" Value="Ascending">
+                                <Setter Property="Background" Value="#0a7ec7"/>
+                            </Trigger>
+                            <Trigger Property="SortDirection" Value="Descending">
+                                <Setter Property="Background" Value="#0a7ec7"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="CellStyle">
+                <Setter.Value>
+                    <Style TargetType="DataGridCell">
+                        <Setter Property="FontSize" Value="14"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter Property="Background" Value="#0a7ec7"/>
+                                <Setter Property="Foreground" Value="Black"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <DataTemplate x:Key="EmptyDataTemplate">
+            <TextBlock Text="Объектов пока нет" 
+                       HorizontalAlignment="Center" 
+                       VerticalAlignment="Center" 
+                       Foreground="Gray" 
+                       FontSize="16"/>
+        </DataTemplate>
+
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="9">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="12" />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+
+        <!-- Панель инструментов с прокруткой -->
+        <DockPanel Grid.Row="0">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" DockPanel.Dock="Left">
+                <StackPanel x:Name="ToolPanel" Width="230" Margin="5" Background="#FF806491" HorizontalAlignment="Center" ClipToBounds="True">
+                    <StackPanel.Effect>
+                        <DropShadowEffect/>
+                    </StackPanel.Effect>
+                    <Expander Header="Управление записями" Background="#FF806491" Cursor="Hand">
+                        <StackPanel Margin="5">
+                            <Button Content="Добавить" 
+                                    Style="{StaticResource ModernButtonStyle}"
+                                    IsEnabled="{Binding IsDatabaseCreated}"
+                                    Click="AddObject_Click" />
+                            <Button Content="Генерировать данные" 
+                                    Style="{StaticResource ModernButtonStyle}"
+                                    IsEnabled="{Binding IsDatabaseCreated}"
+                                    Click="GeneraiteTestData_Click" />
+                        </StackPanel>
+                    </Expander>
+                    <Expander Header="Статистика" Background="#FF806491" Cursor="Hand">
+                        <StackPanel Margin="5">
+                            <Button Content="Отчёты" 
+                                    Click="ReportsButton_Click"
+                                    Style="{StaticResource ModernButtonStyle}"
+                                    IsEnabled="{Binding IsDatabaseCreated}"/>
+                            <Button Content="Открыть аналитику" 
+                                    Click="AnalyticsButton_Click"
+                                    Style="{StaticResource ModernButtonStyle}"
+                                    IsEnabled="{Binding IsDatabaseCreated}"/>
+                        </StackPanel>
+                    </Expander>
+                    <Expander Header="База данных" Background="#FF806491" Cursor="Hand">
+                        <StackPanel Margin="5">
+                            <Button Content="Создать базу данных"
+                                    x:Name="ButtonDbCreate"
+                                    IsEnabled="{Binding _isNotDataBAseCreated}"
+                                    Style="{StaticResource ModernButtonStyle}"
+                                    Click="CreateDB_Click"/>
+                            <Button Content="Удалить базу данных" 
+                                    IsEnabled="{Binding IsDatabaseCreated}"
+                                    Style="{StaticResource ModernButtonStyle}"
+                                    Click="DeleteDB_Click" Cursor="Hand"/>
+                            <Button Content="Открыть из JSON" 
+                                    Click="LoadFromJSON_Click"
+                                    Style="{StaticResource ModernButtonStyle}"
+                                    IsEnabled="{Binding IsDatabaseCreated}"/>
+                        </StackPanel>
+                    </Expander>
+                    <Expander Header="Работа с данными" Background="#FF806491" Cursor="Hand">
+                        <StackPanel Margin="5">
+                            <Label>Фильтрация:</Label>
+                            <CheckBox Content="Показать всё" 
+                                      x:Name="FiltCheckBox"
+                                       IsChecked="{Binding IsAllSelected, Mode=TwoWay}" 
+                                       Checked="ShowAll_Checked" 
+                                       Unchecked="ShowAll_Unchecked"
+                                        IsEnabled="{Binding IsDatabaseCreated}"/>
+                            <Label>Выберите категорию:</Label>
+                            <ComboBox x:Name="FiltComboBox" ItemsSource="{Binding Categories}" 
+                                      SelectedItem="{Binding SelectedCategory}" 
+                                      DisplayMemberPath="Name" 
+                                      SelectedValuePath="Name" 
+                                      SelectionChanged="CategoryFilter_SelectionChanged" 
+                                      IsEnabled="{Binding IsDatabaseCreated}">
+                                <ComboBox.Background>
+                                    <LinearGradientBrush EndPoint="0,1">
+                                        <GradientStop Color="#FFF0F0F0"/>
+                                        <GradientStop Color="#FF9E9797" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </ComboBox.Background>
+                            </ComboBox>
+                            <Label>Поиск товара по:</Label>
+                            <Label>Выберите столбец:</Label>
+                            <ComboBox x:Name="columnComboBox"
+                                      SelectionChanged="ColumnComboBox_SelectionChanged"
+                                      IsEnabled="{Binding IsDatabaseCreated}">
+                                <ComboBoxItem Content="Наименование" Tag="Name"/>
+                                <ComboBoxItem Content="Артикул" Tag="Id"/>
+                                <ComboBoxItem Content="Категория" Tag="Category"/>
+                                <ComboBoxItem Content="Количество" Tag="Quantity"/>
+                                <ComboBoxItem Content="Срок хранения до" Tag="ExpiryDate"/>
+                            </ComboBox>
+                            <Label>Введите для поиска:</Label>
+                            <TextBox x:Name="searchTextBox" Height="21" Width="141"
+                                     TextChanged="SearchTextBox_TextChanged" Background="#FFB7B4B4"
+                                     HorizontalAlignment="Center" IsEnabled="{Binding IsDatabaseCreated}"/>
+                        </StackPanel>
+                    </Expander>
+                    <Canvas Height="2" Margin="0,10,0,10">
+                        <Line X1="0" Y1="1" X2="230" Y2="1" Stroke="Black" StrokeThickness="2"/>
+                    </Canvas>
+                    <Button Content="Сохранить как" 
+                            Click="SaveAsJSON_Click"
+                            Style="{StaticResource ModernButtonStyle}"
+                            IsEnabled="{Binding IsDatabaseCreated}"/>
+                    <Label>Выдача товара. Укажите колличество:</Label>
+                    <TextBox x:Name="quantityTextBox" Background="#FFB7B4B4"
+                             Height="21" Width="141" HorizontalAlignment="Center"
+                             IsEnabled="{Binding IsDatabaseCreated}"/>
+                    <Button Content="Выдать товар" 
+                            Style="{StaticResource ModernButtonStyle}"
+                            IsEnabled="{Binding IsDatabaseCreated}"
+                            Click="IssueItem_Click"/>
+                    <Button Content="Выход" 
+                            Style="{StaticResource ModernButtonStyle}" Background="#FFFF0026" 
+                            Click="ExitButton_Click"/>
+                </StackPanel>
+            </ScrollViewer>
+
+            <!-- Таблица с данными -->
+            <DockPanel>
+                <DataGrid Grid.Row="0" x:Name="objDataGrid" ItemsSource="{Binding StockView}"
+                          AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" Margin="5" 
+                          Width="Auto" Height="Auto" ContextMenu="{StaticResource DataGridContextMenu}">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Наименование" Binding="{Binding Name}" Width="*" CanUserSort="True"/>
+                        <DataGridTextColumn Header="Артикул" Binding="{Binding Id}" Width="*" CanUserSort="True"/>
+                        <DataGridTextColumn Header="Категория" Binding="{Binding Category}" Width="*" CanUserSort="True"/>
+                        <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}" Width="*" CanUserSort="True"/>
+                        <DataGridTextColumn Header="Срок хранения до" Binding="{Binding ExpiryDate, StringFormat='dd.MM.yyyy'}" Width="*" CanUserSort="True"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <ContentPresenter ContentTemplate="{StaticResource EmptyDataTemplate}" Visibility="{Binding ElementName=objDataGrid, Path=HasItems, Converter={StaticResource BooleanToVisibilityConverter}, ConverterParameter=False}" />
+            </DockPanel>
+        </DockPanel>
+
+        <!-- Надписи, кнопки и прочие элементы здесь -->
+        <StatusBarItem Width="150" HorizontalAlignment="Left" Margin="10,2,0,10" Grid.RowSpan="2" Grid.Row="2" Background="#FF806491">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Статус БД: "/>
+                <TextBlock Text="{Binding DatabaseStatus}"/>
+            </StackPanel>
+        </StatusBarItem>
+    </Grid>
+</Window>

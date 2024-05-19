@@ -1,0 +1,3298 @@
+[
+  {
+    "Id": "e4d1616a-3726-40f9-b4ae-e4e1caa264e1",
+    "Name": "Стол офисный",
+    "Category": "Мебель",
+    "Quantity": 48,
+    "ExpiryDate": "2024-05-05T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "52214785-bec7-4c9b-acb6-d19c4223d7a6",
+    "Name": "Гвозди 100 мм",
+    "Category": "Крепеж",
+    "Quantity": 12,
+    "ExpiryDate": "2024-05-06T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b2d30426-ac59-489f-83c1-5ab695ffd502",
+    "Name": "Кресло компьютерное",
+    "Category": "Мебель",
+    "Quantity": 36,
+    "ExpiryDate": "2024-05-07T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "012a3b65-9139-400c-8b60-9c33c8d12f91",
+    "Name": "Молоток",
+    "Category": "Инструменты",
+    "Quantity": 43,
+    "ExpiryDate": "2024-05-08T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d1cd9a94-b5ca-4deb-97be-8c3f79a98de6",
+    "Name": "Перфоратор",
+    "Category": "Инструменты",
+    "Quantity": 63,
+    "ExpiryDate": "2024-05-09T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ecc0e5c8-0d38-454e-b805-cfa024315796",
+    "Name": "Лампочка LED 10W",
+    "Category": "Электрика",
+    "Quantity": 82,
+    "ExpiryDate": "2024-05-10T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4fde2f91-0fe1-4f97-9245-889c0cf72ec7",
+    "Name": "Кабель сетевой 5м",
+    "Category": "Электрика",
+    "Quantity": 23,
+    "ExpiryDate": "2024-05-11T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "bc131677-02ec-4847-8623-f53efe74f31e",
+    "Name": "Шурупы 50 мм",
+    "Category": "Крепеж",
+    "Quantity": 64,
+    "ExpiryDate": "2024-05-12T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "92ee9b4c-9a7f-4e9a-b188-cde16ae2064e",
+    "Name": "Краска белая 10 л",
+    "Category": "Стройматериалы",
+    "Quantity": 40,
+    "ExpiryDate": "2024-05-13T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "54008187-84e9-4397-b0f5-2b63cd25a64c",
+    "Name": "Шпатель",
+    "Category": "Инструменты",
+    "Quantity": 91,
+    "ExpiryDate": "2024-05-14T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2bde652d-e335-49fb-aa90-87c91c228091",
+    "Name": "Стул пластиковый",
+    "Category": "Мебель",
+    "Quantity": 93,
+    "ExpiryDate": "2024-05-15T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "73324bc2-41a9-462f-92b4-358d0e813bce",
+    "Name": "Пила по дереву",
+    "Category": "Инструменты",
+    "Quantity": 78,
+    "ExpiryDate": "2024-05-16T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "28f74eb9-b51b-41ff-b029-96c7ffc88ccf",
+    "Name": "Тарелка керамическая",
+    "Category": "Посуда",
+    "Quantity": 40,
+    "ExpiryDate": "2024-05-17T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "322eefed-8dc4-4459-adf3-7b588c085b17",
+    "Name": "Чайник электрический",
+    "Category": "Бытовая техника",
+    "Quantity": 82,
+    "ExpiryDate": "2024-05-18T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e07b77cb-6611-4d01-8221-6fbc6c49c59f",
+    "Name": "Пылесос",
+    "Category": "Бытовая техника",
+    "Quantity": 1,
+    "ExpiryDate": "2024-05-19T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "1699d868-9a1d-4578-a6f5-b6c0ca8d40c5",
+    "Name": "Утюг",
+    "Category": "Бытовая техника",
+    "Quantity": 17,
+    "ExpiryDate": "2024-05-20T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2287bada-7a58-4113-85cf-292f5dc30072",
+    "Name": "Сверло по металлу 5мм",
+    "Category": "Инструменты",
+    "Quantity": 39,
+    "ExpiryDate": "2024-05-21T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0b103cc6-db73-4989-bbc7-084acb7a832b",
+    "Name": "Телевизор 40 дюймов",
+    "Category": "Электроника",
+    "Quantity": 26,
+    "ExpiryDate": "2024-05-22T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f1c4abe8-cfb8-4284-859c-c3fbc101c328",
+    "Name": "Ноутбук",
+    "Category": "Электроника",
+    "Quantity": 42,
+    "ExpiryDate": "2024-05-23T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2414065d-1312-4182-9378-01fe801d747c",
+    "Name": "Кофемашина",
+    "Category": "Бытовая техника",
+    "Quantity": 37,
+    "ExpiryDate": "2024-05-24T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6a2ede8e-2a7b-4ea0-a338-fb8a3d64d98c",
+    "Name": "Бур по бетону 8 мм",
+    "Category": "Инструменты",
+    "Quantity": 60,
+    "ExpiryDate": "2024-05-25T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "847d9a3f-0c54-48a7-98a2-b0fe02909ed9",
+    "Name": "Рубанок электрический",
+    "Category": "Инструменты",
+    "Quantity": 16,
+    "ExpiryDate": "2024-05-26T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2fe37b61-6902-4bba-816e-47ac42782a24",
+    "Name": "Дрель-шуруповерт",
+    "Category": "Инструменты",
+    "Quantity": 65,
+    "ExpiryDate": "2024-05-27T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3d7bef83-6be0-44a7-af77-32744011d02d",
+    "Name": "Фонарик ручной",
+    "Category": "Электрика",
+    "Quantity": 11,
+    "ExpiryDate": "2024-05-28T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "db016ce6-6d60-4e5f-b5e0-153d6c324709",
+    "Name": "Розетка двойная",
+    "Category": "Электрика",
+    "Quantity": 42,
+    "ExpiryDate": "2024-05-29T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0e3495d6-4b50-41c9-b809-167dd962ddef",
+    "Name": "Вилка сетевая",
+    "Category": "Электрика",
+    "Quantity": 67,
+    "ExpiryDate": "2024-05-30T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9e681b9d-096e-47c9-a62d-000d9685966f",
+    "Name": "Провод ПВС 3*1.5",
+    "Category": "Электрика",
+    "Quantity": 21,
+    "ExpiryDate": "2024-05-31T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "03a8ba02-2d0e-4a52-afb0-01e88de729a2",
+    "Name": "Выключатель света",
+    "Category": "Электрика",
+    "Quantity": 96,
+    "ExpiryDate": "2024-06-01T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5c579c58-a831-4bad-9ca9-1436509da583",
+    "Name": "Тумба под ТВ",
+    "Category": "Мебель",
+    "Quantity": 74,
+    "ExpiryDate": "2024-06-02T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b71388b6-e46b-452c-9407-c4a5f93e24c5",
+    "Name": "Шкаф книжный",
+    "Category": "Мебель",
+    "Quantity": 3,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ee49a585-c1be-4597-92b8-7caaf95ff02d",
+    "Name": "Замок дверной",
+    "Category": "Крепеж",
+    "Quantity": 88,
+    "ExpiryDate": "2024-06-04T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f29f39c4-9386-452f-b7b8-bbf091069454",
+    "Name": "Саморезы по дереву 40 мм",
+    "Category": "Крепеж",
+    "Quantity": 30,
+    "ExpiryDate": "2024-06-05T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "80fc86b4-71dc-4442-ad95-16c20f386d55",
+    "Name": "Штукатурка гипсовая",
+    "Category": "Стройматериалы",
+    "Quantity": 99,
+    "ExpiryDate": "2024-06-06T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d3f89b17-24cd-4b61-b5b4-16d6a28dced9",
+    "Name": "Грунтовка универсальная 5 л",
+    "Category": "Стройматериалы",
+    "Quantity": 7,
+    "ExpiryDate": "2024-06-07T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6f9fd1fc-acd2-4f30-83c8-4195a6024630",
+    "Name": "Клей ПВА",
+    "Category": "Стройматериалы",
+    "Quantity": 63,
+    "ExpiryDate": "2024-06-08T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "101820a5-2dab-4e69-b367-3c51bf417ede",
+    "Name": "Смесь строительная",
+    "Category": "Стройматериалы",
+    "Quantity": 9,
+    "ExpiryDate": "2024-06-09T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6e20b9d8-f6f2-440e-a81a-bf1e5995ad4e",
+    "Name": "Линолеум",
+    "Category": "Покрытия",
+    "Quantity": 72,
+    "ExpiryDate": "2024-06-10T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e4aeb0f6-e5e1-40e2-b7c6-d14b6f88fcbf",
+    "Name": "Плитка керамическая",
+    "Category": "Покрытия",
+    "Quantity": 69,
+    "ExpiryDate": "2024-06-11T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "22dd4af3-fcf3-42c9-8ed0-71ffc2f571e4",
+    "Name": "Ламинат",
+    "Category": "Покрытия",
+    "Quantity": 37,
+    "ExpiryDate": "2024-06-12T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "93a82ac8-5cb0-4711-a76a-51b56c13e851",
+    "Name": "Ковер современный",
+    "Category": "Покрытия",
+    "Quantity": 75,
+    "ExpiryDate": "2024-06-13T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a0eb7f5a-4b24-49b2-9403-a48519a6fcee",
+    "Name": "Соковыжималка",
+    "Category": "Бытовая техника",
+    "Quantity": 26,
+    "ExpiryDate": "2024-06-14T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e4e27c1b-bf0e-4c4c-a274-c02949b4d021",
+    "Name": "Тостер",
+    "Category": "Бытовая техника",
+    "Quantity": 37,
+    "ExpiryDate": "2024-06-15T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9362c063-4e25-4e5d-80f7-42cb76846170",
+    "Name": "Микроволновая печь",
+    "Category": "Бытовая техника",
+    "Quantity": 7,
+    "ExpiryDate": "2024-06-16T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7756ffb4-cef1-49c4-95af-f785f5f430d9",
+    "Name": "Холодильник",
+    "Category": "Бытовая техника",
+    "Quantity": 99,
+    "ExpiryDate": "2024-06-17T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8b695e88-ccb8-458b-b716-ba88eb146870",
+    "Name": "Морозильная камера",
+    "Category": "Бытовая техника",
+    "Quantity": 19,
+    "ExpiryDate": "2024-06-18T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d0ed5cf5-0009-4cfd-91c9-5f4b49470020",
+    "Name": "Стиральная машина",
+    "Category": "Бытовая техника",
+    "Quantity": 61,
+    "ExpiryDate": "2024-06-19T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "02ec1db2-4d69-4baf-ada6-f15ff0746255",
+    "Name": "Сушильная машина",
+    "Category": "Бытовая техника",
+    "Quantity": 37,
+    "ExpiryDate": "2024-06-20T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "66c2ed05-99ec-4d96-927f-d60f41401781",
+    "Name": "Кондиционер",
+    "Category": "Бытовая техника",
+    "Quantity": 47,
+    "ExpiryDate": "2024-06-21T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7e6d8353-697b-4ed9-ac6d-46f927e7c568",
+    "Name": "Обогреватель электрический",
+    "Category": "Бытовая техника",
+    "Quantity": 19,
+    "ExpiryDate": "2024-06-22T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "315fe900-a725-4765-8e35-1db5bbe8dedd",
+    "Name": "Планшет",
+    "Category": "Электроника",
+    "Quantity": 22,
+    "ExpiryDate": "2024-06-23T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d163858f-b070-409a-b61f-400aa75da36c",
+    "Name": "Смартфон",
+    "Category": "Электроника",
+    "Quantity": 4,
+    "ExpiryDate": "2024-06-24T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4c6f2faa-b108-4062-8587-9c2c267e29ba",
+    "Name": "Фотоаппарат",
+    "Category": "Электроника",
+    "Quantity": 64,
+    "ExpiryDate": "2024-06-25T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5fe496dc-816f-4cfa-81de-9d3d00741dbb",
+    "Name": "Принтер",
+    "Category": "Электроника",
+    "Quantity": 73,
+    "ExpiryDate": "2024-06-26T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c67145ce-e987-41d8-bcd7-941b038635cb",
+    "Name": "Монитор",
+    "Category": "Электроника",
+    "Quantity": 73,
+    "ExpiryDate": "2024-06-27T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a1b35889-66f9-441c-995e-f21181ec2dff",
+    "Name": "Клавиатура",
+    "Category": "Электроника",
+    "Quantity": 46,
+    "ExpiryDate": "2024-06-28T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a43d2b93-5081-4b37-abf0-646f0b863912",
+    "Name": "Мышь компьютерная",
+    "Category": "Электроника",
+    "Quantity": 11,
+    "ExpiryDate": "2024-06-29T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "88717725-7a05-4f89-ad73-23ba1f381b53",
+    "Name": "Компьютерная акустика",
+    "Category": "Электроника",
+    "Quantity": 78,
+    "ExpiryDate": "2024-06-30T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "435de1de-1650-4ab4-bae2-86f2d7b0bcd7",
+    "Name": "USB-флеш-накопитель",
+    "Category": "Электроника",
+    "Quantity": 42,
+    "ExpiryDate": "2024-07-01T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "45675872-b0f3-408d-88b2-eacbbe051ce6",
+    "Name": "Внешний жесткий диск",
+    "Category": "Электроника",
+    "Quantity": 6,
+    "ExpiryDate": "2024-07-02T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "63642fdb-4c56-4875-9e78-d9531147f2b6",
+    "Name": "Навигатор автомобильный",
+    "Category": "Электроника",
+    "Quantity": 70,
+    "ExpiryDate": "2024-07-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0dba4ec4-8076-403e-9098-2aab271435c7",
+    "Name": "Радиоприемник",
+    "Category": "Электроника",
+    "Quantity": 46,
+    "ExpiryDate": "2024-07-04T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5d59e7e2-4150-4cb2-986d-84e871a36833",
+    "Name": "Салфетки столовые",
+    "Category": "Посуда",
+    "Quantity": 96,
+    "ExpiryDate": "2024-07-05T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c50a4e82-20e2-4637-841d-4a39379b2df2",
+    "Name": "Ложки столовые",
+    "Category": "Посуда",
+    "Quantity": 93,
+    "ExpiryDate": "2024-07-06T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f24ea810-7c73-49f8-9e44-25223fdf67a1",
+    "Name": "Вилки столовые",
+    "Category": "Посуда",
+    "Quantity": 55,
+    "ExpiryDate": "2024-07-07T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2cbca7bb-3956-4c23-8b28-85f111ab9d04",
+    "Name": "Ножи кухонные",
+    "Category": "Посуда",
+    "Quantity": 44,
+    "ExpiryDate": "2024-07-08T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "59fd99da-5372-47d1-9b56-6359bded9ffb",
+    "Name": "Кастрюля алюминиевая",
+    "Category": "Посуда",
+    "Quantity": 58,
+    "ExpiryDate": "2024-07-09T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4f8625c6-341f-468e-bfda-ebab4e625289",
+    "Name": "Сковорода тефлоновая",
+    "Category": "Посуда",
+    "Quantity": 79,
+    "ExpiryDate": "2024-07-10T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a509d747-7ca0-46b2-a589-e3423dddc98c",
+    "Name": "Бокалы для вина",
+    "Category": "Посуда",
+    "Quantity": 7,
+    "ExpiryDate": "2024-07-11T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "1e6c6cf2-0d08-4a16-a91b-d42ea89b0deb",
+    "Name": "Чашки чайные",
+    "Category": "Посуда",
+    "Quantity": 14,
+    "ExpiryDate": "2024-07-12T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "13acae36-c4c8-4dad-bbe6-539eb7f75dfb",
+    "Name": "Контейнеры для хранения",
+    "Category": "Посуда",
+    "Quantity": 14,
+    "ExpiryDate": "2024-07-13T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5ac5e7ed-9765-4e91-8380-4d5155ab3c2b",
+    "Name": "Доска разделочная",
+    "Category": "Посуда",
+    "Quantity": 57,
+    "ExpiryDate": "2024-07-14T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a33b57e9-255c-4a86-a20d-4ca09136e81f",
+    "Name": "Блендер",
+    "Category": "Бытовая техника",
+    "Quantity": 86,
+    "ExpiryDate": "2024-07-15T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "58a17c02-0cf3-464f-9cc4-adb61d4f1621",
+    "Name": "Мясорубка",
+    "Category": "Бытовая техника",
+    "Quantity": 93,
+    "ExpiryDate": "2024-07-16T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7a1a7f36-e3e3-4b15-a504-eb56e5c1e5ca",
+    "Name": "Электрическая варочная панель",
+    "Category": "Бытовая техника",
+    "Quantity": 70,
+    "ExpiryDate": "2024-07-17T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e5358e46-d4e1-4d60-9bfe-95cb98c210c0",
+    "Name": "Духовой шкаф",
+    "Category": "Бытовая техника",
+    "Quantity": 71,
+    "ExpiryDate": "2024-07-18T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e19ef6c2-aca9-4480-a731-531b41420bbf",
+    "Name": "Кухонный комбайн",
+    "Category": "Бытовая техника",
+    "Quantity": 82,
+    "ExpiryDate": "2024-07-19T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4adc2848-b459-44dd-b4e1-5ffe30c0307f",
+    "Name": "Вафельница",
+    "Category": "Бытовая техника",
+    "Quantity": 60,
+    "ExpiryDate": "2024-07-20T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4cf7ec0e-f581-4bbb-89ce-75af6c36472b",
+    "Name": "Капельница",
+    "Category": "Медицинские приборы",
+    "Quantity": 7,
+    "ExpiryDate": "2024-07-21T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ea9fd752-f0d2-4563-9038-b085f771e664",
+    "Name": "Тонометр",
+    "Category": "Медицинские приборы",
+    "Quantity": 21,
+    "ExpiryDate": "2024-07-22T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "223e0cb1-49e8-41fd-b19b-b68aa88bb04a",
+    "Name": "Ингалятор",
+    "Category": "Медицинские приборы",
+    "Quantity": 28,
+    "ExpiryDate": "2024-07-23T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "90768ae2-b86d-452b-a3cf-27947e239dd4",
+    "Name": "Стетоскоп",
+    "Category": "Медицинские приборы",
+    "Quantity": 37,
+    "ExpiryDate": "2024-07-24T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "bc31fdfe-9929-46c2-b7c7-f8a52cf294c3",
+    "Name": "Медицинский термометр",
+    "Category": "Медицинские приборы",
+    "Quantity": 52,
+    "ExpiryDate": "2024-07-25T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "1b6de586-fe9d-471f-9277-c678b2718a66",
+    "Name": "Массажер для спины",
+    "Category": "Медицинские приборы",
+    "Quantity": 90,
+    "ExpiryDate": "2024-07-26T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "de8230fe-6a40-4e35-b1ef-bfff0d21feb8",
+    "Name": "Ортопедическая подушка",
+    "Category": "Медицинские приборы",
+    "Quantity": 1,
+    "ExpiryDate": "2024-07-27T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "10b69fd0-b535-4d76-9f36-bafbdae60596",
+    "Name": "Ирригатор для полости рта",
+    "Category": "Медицинские приборы",
+    "Quantity": 52,
+    "ExpiryDate": "2024-07-28T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c6eecf6a-9ef1-44fc-8154-798c5ae20f0c",
+    "Name": "Проектор",
+    "Category": "Электроника",
+    "Quantity": 46,
+    "ExpiryDate": "2024-07-29T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4fa6e256-3a4a-43dc-9421-abfb6670e75a",
+    "Name": "Камера видеонаблюдения",
+    "Category": "Электроника",
+    "Quantity": 20,
+    "ExpiryDate": "2024-07-30T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d9114100-b6a4-4181-84a8-caaedd9bb8c3",
+    "Name": "Игровая консоль",
+    "Category": "Электроника",
+    "Quantity": 56,
+    "ExpiryDate": "2024-07-31T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "65e01da8-6c66-4e82-8c11-f3361e874372",
+    "Name": "Видеокарта",
+    "Category": "Электроника",
+    "Quantity": 49,
+    "ExpiryDate": "2024-08-01T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e81ac672-1bfe-4bbb-9b16-7b88b6b14a1c",
+    "Name": "Материнская плата",
+    "Category": "Электроника",
+    "Quantity": 1,
+    "ExpiryDate": "2024-08-02T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "790d71e1-1b49-40f3-8292-837897d7f177",
+    "Name": "Жесткий диск SSD",
+    "Category": "Электроника",
+    "Quantity": 68,
+    "ExpiryDate": "2024-08-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "77c1077f-c9e6-4cac-8e96-4665030760ca",
+    "Name": "Сетевой маршрутизатор",
+    "Category": "Электроника",
+    "Quantity": 66,
+    "ExpiryDate": "2024-08-04T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e0a74274-ea29-49b4-90e7-9be7158cd4c2",
+    "Name": "Веб-камера",
+    "Category": "Электроника",
+    "Quantity": 99,
+    "ExpiryDate": "2024-08-05T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "94d57f82-e47e-4572-9007-901c8d3706a5",
+    "Name": "Наушники",
+    "Category": "Электроника",
+    "Quantity": 19,
+    "ExpiryDate": "2024-08-06T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "037cbc95-65eb-46ff-869c-215daecf6712",
+    "Name": "Микрофон",
+    "Category": "Электроника",
+    "Quantity": 20,
+    "ExpiryDate": "2024-08-07T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "47950f6c-f746-4311-9e13-e19592c976f7",
+    "Name": "Акустическая система",
+    "Category": "Электроника",
+    "Quantity": 96,
+    "ExpiryDate": "2024-08-08T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a23a47ba-9998-4aca-beb9-57b56729aa0a",
+    "Name": "Электрогитара",
+    "Category": "Музыкальные инструменты",
+    "Quantity": 83,
+    "ExpiryDate": "2024-08-09T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f7ab1163-a377-4914-88e6-8883a4b22b71",
+    "Name": "Синтезатор",
+    "Category": "Музыкальные инструменты",
+    "Quantity": 6,
+    "ExpiryDate": "2024-08-10T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7e83be03-c552-4fd1-92e8-7f0390e5b9d4",
+    "Name": "Барабанная установка",
+    "Category": "Музыкальные инструменты",
+    "Quantity": 42,
+    "ExpiryDate": "2024-08-11T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e642e885-2af8-43ce-a8e8-e93b036613f4",
+    "Name": "Скрипка",
+    "Category": "Музыкальные инструменты",
+    "Quantity": 16,
+    "ExpiryDate": "2024-08-12T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9105f440-5edf-40bc-9715-5f0ce84994a2",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9f77cbf4-6eb6-4375-baad-81fe51db9fa3",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ebb26e43-824c-4c3f-b16e-ce8d8b274b13",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d3ba261f-b175-4c3f-9e10-900ce3a61dce",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6ce82d52-bfe5-4a32-a428-485d0971fe99",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8bf0ed83-91b2-42e6-91da-361b2d7b9932",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "232f34cc-7902-423e-9f4f-b8aa4c596bd7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a5e4fae7-5d5b-459e-b5c9-5ae3a019b4b2",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6010533f-2872-4294-b4b4-bf79733e567d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "db6033a2-986f-4107-a6c9-048b3e581e71",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "12f1cd82-1e3b-4cea-af6f-88cae05ed315",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "24e2f857-fce2-444b-8eaf-f6cda4bfb57d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9630edbc-a8c8-4e54-af12-b856e5498640",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "af471a9b-0997-4944-9a52-e20852e35090",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9f4bcf4a-7fc6-42f1-972e-f3ae403739f9",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "238ed446-fe44-4d14-aaa1-4e0a36749bcf",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5dd6725c-dde8-4ddd-9489-9158878ba4bc",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d981d91a-e7ef-4178-9203-754c7c6a55b4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5ffaf019-9ad2-4974-98ef-8fd2c688f472",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "556692e6-be34-49dc-a4f8-7785874333e7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5429c756-9468-444b-8255-d67086b7360f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ea87cd5c-4d88-4d1a-8207-ca83b9acf94e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3435653a-f6a2-433f-8bf3-3081740ccdb8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "951cafe7-b1fc-4dcc-b1b5-78e8c0bd89bb",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ee723277-4d72-4a5f-9f61-0407a0beb4f6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "45a50a87-9032-42bc-9d33-28670a076d83",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "387f32ca-ed75-4dbb-8d51-f0d25c951b37",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "22963728-7653-4710-a819-9afa8fb01d13",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f916b348-a4be-400e-a093-2837236228e8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f4b5d3e9-d475-4d46-8679-4a7566b8ac6a",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5db9feeb-46f9-4d93-beed-08ea226afc17",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "94d6fc2a-133f-46d3-a1f3-ff25a551d509",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "89037177-2e08-4593-93a2-abe7790e4dec",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3f59aeb1-182e-4a6e-b053-c41fd3d7fc27",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ceca788e-ba0a-4b60-a777-98d0bf940da9",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c3f29bf5-f11e-4b60-a2e5-3809b8a1c5c6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "51c95cfe-6e33-4b62-8617-589cc3315983",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d60be1aa-dc53-4772-8be7-2f16851a3a73",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "446cce97-989c-4943-bdea-fd7c39e061ff",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "85355b67-c328-40f0-8cab-1779ac0cc8a9",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "dd2ce833-e844-47b0-b8c1-f78cc259a643",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "abb934d7-44f5-486a-b4f3-9481c05b8fba",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fada1dc8-375b-4050-85fa-3ffa328286a5",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "1f44fc49-8913-47b7-a283-d201ce07fed8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "baba432b-7af4-47a9-a534-d6a047859c78",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0b652380-8426-45b1-9bc4-36df4a036097",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ffd1b3b8-8315-4d49-af13-65523c4ffc79",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "bef19848-8da1-411a-8fe6-3fa435d042c9",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e63b0595-5bb5-4eda-b92a-88befe47a3db",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "dd046171-4293-481c-bec8-9b9e54867798",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b2635205-4518-4556-9dd5-87f791fb5120",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "04fcd48a-b607-4a4e-8e89-6d679c7b23ab",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d272900e-10da-4561-a613-46fa8d471a64",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "12908d99-f1e0-43e5-98b7-6384b04058dc",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b318b517-a7d6-47e9-93af-91e4e35e199a",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "42ec98ce-3ff2-43bd-9cfa-8542247f4d16",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3e7ee534-9e72-4223-a5df-83f92a85b09c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "03e4351b-5031-4b18-bf0a-93c3ff376d80",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e7f3ccf7-e1cf-46a7-bbc3-64bdf2e01216",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d4f580eb-d60f-4b68-8114-3a34fc1ce49f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "49c76592-f1bb-421b-bb6e-5d8149b0589c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b8b8af1f-b75b-4f51-84f6-b29a7aa9e115",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ba416069-8649-4011-bd5c-de23dc3a5aae",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "71719e79-ef8d-4cda-b2fe-2f39e31f0173",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "52d2f95b-83a4-4d69-9c71-721a029e696c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fdf9a1bd-a0ab-4e20-842e-024d1f9bad8e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e723745a-f9c0-4eeb-ad06-5beb96f4b46e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b48c507d-9a86-4663-9603-204958d5d923",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "05fd219d-fad0-4c21-a7a0-5331be656332",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "80675218-a3f5-44dc-8656-fe60f5a6f5d7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3b3bcda7-317e-4e18-a4d5-17c999fc3842",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "54f55ce2-e82a-44b1-bb2f-b79bc31682b4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ba4dda0c-2c13-4984-ae70-57e1bb8b9162",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "68fc7131-f2c7-4d63-9f11-d930a7c53842",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "53b3ff9b-9c55-4c69-baa5-0709fd6d0940",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "107ab679-140a-41d9-a572-f21da033a272",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f794bd5c-6aa0-404d-ae6e-2a66730fe2db",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "85ce6e30-2040-4c30-afcb-6b685c2aa44d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3c5adf49-ea1c-4ee0-9d63-df58c96dc812",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b9e535b7-064c-4060-af72-1c86250effc6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9bd030db-7c2a-436f-8067-88f3147f20b8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "90da6862-baf5-40ac-a1b3-2e458844a79f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "26aa15f0-e2c5-49e7-a258-b5ef527026a6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "55be9124-7f8e-4455-84ae-4be3ea703b6d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "66ef6a21-c382-4c2d-aa88-b49046f3a658",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f4595233-c918-41b3-b89e-17161202e4b3",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "771d1332-cb59-4ce1-bad1-e80491a12977",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4ce910ff-f3a7-4dad-99d0-af6cf1832bff",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7f4593eb-942e-4b23-b282-6c88ef7e1644",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "dd590a6a-bb04-4e4e-b727-f4c93602698c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9c804cc7-6552-43ec-b99d-a0079e63d91c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7ef66749-934f-433d-a49d-cc5c79a2ebe4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4b7ffc52-1c50-40d6-bec6-410f23cafd8b",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "74b9c07c-2ed1-4ff6-b1c5-9fea979257a7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "24cf7973-266b-48da-b0b9-28bf07964683",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2bc3f716-9d7e-4903-8930-101363135912",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4d60b025-2905-4027-9558-8c64897d0501",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0853a031-cd6e-42a5-abac-4d537033f345",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8e5c5273-75c0-4eca-96f6-3510747545d7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7994041a-0a1a-48f6-a59f-f386565f15db",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "18fa846f-309d-4294-998c-232a399074fe",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ff474bd5-3b01-4553-9608-1947954982e0",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d5dc1241-31c6-4e55-8cd4-78b0f5bccdfb",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "83eebc9a-e4d4-4da0-b314-e9344f14f0df",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "473ceac9-4fdf-4783-a68a-fa3b3e2a732a",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "286a06ec-ff53-45dc-b20b-d666fe4524a9",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9406f6c9-fd31-4c80-b31c-e1bf462c3d48",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8791f9c5-89d2-49c1-916a-de972bbc5629",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "00b2edc6-8b45-47b4-a87e-c1b6e1fead94",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a92deb77-a811-4b0c-b7e8-b08b3b0fd447",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "44296285-3a56-4144-9e2a-beff4d7f2d64",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5b6692af-012d-414f-9713-c3960854c7b5",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5922540e-d052-4514-9ce2-8630951e52ee",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ca489ba8-811d-4c4f-881a-f5e84cdb1ec1",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b5c690e8-2e5b-485f-bf7f-4bfb67f7c90f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "87561dd6-75dd-4752-b9ab-e433ca45eebe",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d3262b55-a67b-40a0-a683-fff473271db6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d67b50a2-6688-4dd3-86f9-224e082c33b2",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8fd0c24c-dcfe-497a-adc7-55e8e123860e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f1ac2ba6-29c3-49ff-8faf-fdad2c240c33",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2a2abd70-3432-403a-9142-21a4a95275ed",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "56d1a179-40ed-4ec4-9a89-41b18c842cc8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0f53d46f-9eab-465a-b691-3aca3ee8dc51",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "befbf87d-8c86-4f96-a0b4-c1cbe7363ced",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "48176e8b-4574-45c2-bd35-72e2edb4d5a6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e5eca745-c15a-4ce5-ac5d-454f8e8d7fbb",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6cd0b2f8-e561-4a10-bb3a-fd29f03c9981",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e1dcb514-0eb8-46aa-860e-d861be407be4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d7edcd12-ff09-4341-a47d-8adebaeb6e49",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "74006702-5bbe-447a-8e3d-ec7acb54d771",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ef9d4e47-e12c-4f2e-b4eb-6e9ac58da93e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3921b6a2-0051-4e69-b3d9-ed2995aafe58",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "cdcff4d2-3537-4db1-847d-3685f3d70420",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e1cbd1ba-2ab0-4496-8982-6d775ff569bb",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7aaa61ba-baa0-4689-8838-52eb7f68d923",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4654f3d5-1d26-4057-884e-4bee5040a87e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "10221e88-7e98-4cff-b93c-019fb78fcacd",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "806f21fc-0b28-45c3-b081-7c25e587da08",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "1a7b3ab4-75d4-4aa7-a492-6216cf89d03c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b58c02c9-49e7-426b-9a4d-3f25b70bc2e6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "66b9f9da-6fd4-447d-bd93-6bc9dd3b75c2",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f5134f54-79ef-44fe-b344-c08b513bb80b",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "26568dc4-8a67-4a6f-a019-a1cab810bbe8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f04d6d25-fa4d-49a5-befb-ba5bad8d66c4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "545dea74-efd2-40c2-bb39-e371a3f5d5f8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b81ffb83-c942-4582-bf38-5897a0850244",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6ac943bd-c849-482b-a8d7-84996bbb5c66",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2b5a95a8-5063-4885-81a9-06a4c64e499e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4bfe18ae-c700-435f-9891-932a7d44bb37",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ee8c12d3-b791-4c6d-b50f-9def6a1bc387",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "280c195f-5ab5-49fc-8711-810d3eb7ef74",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "de49d14f-685f-4651-b8f0-86db085f2c36",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e9c58248-f3d2-4c8d-82d3-7a738430cf2e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3681b0b2-46a7-428f-b4ac-0ea55a1cbb48",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ba9b725a-0cd5-41a3-98a5-89a3a6551bba",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fc403d46-3abf-472e-80ee-f3731d0436ea",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2c9e449d-39ca-4e44-9f1a-c6a078c17337",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d682bd61-d661-4e31-a274-d6860b38408f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "901ec337-5525-4afc-86a2-91213387be5e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "67c9cfbe-8a69-4c82-ad63-0be1ced91fb0",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fe83eb84-4b94-4baf-b093-8b785fe261b3",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "83b1d079-ba14-457f-b52e-71bcc6ba8603",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4d3c3398-8b01-4fae-bdf5-96b6c85fc8e4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d0bab7fb-2029-4ffe-93c3-956296739b3f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2fecbff5-20f4-4357-9039-988fef117194",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ab43a2c8-f054-4269-b6fd-eec46aef4f1c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0369e3bc-7032-4f2a-a696-102823c22be9",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "13372af8-8062-4275-9280-2b3aa5ce78e2",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "32a6b4af-bfb3-4dc3-9da5-05c33a1c2985",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5029aaaa-c025-4908-98cb-b139560a99d1",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f79e26ce-2af3-4648-9dbd-bc24ea81aa03",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4605c47d-dd80-4d04-9da7-a8cc24c1a700",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "be21ad11-3c2d-4caa-b4f0-a309bbe0bfba",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "192ca83e-cac9-4f78-8a69-0239860ac03f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8018e7bf-d9ab-4af7-bddc-6bb2af181094",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6646a48b-5787-48e7-8bd3-13bdfa42ea44",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4f2f7930-120e-47ac-a2e9-b8be0acb6d22",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fe1b2035-6796-4371-aef3-84e63f28faef",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "bb4e7fdd-a94d-4764-9613-d6605c340fab",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a86c7200-507b-4ef5-9286-7b0dee6de943",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "17f0e95d-de69-42f8-9d63-c10e1ecbc1f4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7954a224-fe14-4957-8175-0277f3dd51eb",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0c67ddaa-dc34-4d26-84a1-76c370498b69",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "772ac910-3027-4f2c-beb9-e32a8c66be58",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c26e23ba-1ae5-4952-879c-874ac2c118e7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "733d29c5-5696-4d1c-ad1f-f068cd484c16",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9233c060-b09a-474b-9d86-6091c2502fd4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6041b945-8749-4eaf-aac8-4fea231b6dc7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4930de9b-1a5d-4702-a0b0-1e7c0559367d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "65d60081-ed23-4227-8738-102655b83c5f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "aaefcee8-0fdf-4aa7-8c11-0686e62b90de",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c76738d4-1732-4f20-b4c4-e6df8b22e429",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b8a48d94-d311-40f0-a7a6-947d74357667",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e35a8ed3-d8a1-4eb0-bc64-f1d61d4d3f57",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f09c82cd-a288-4f94-ac80-5b5a298e7e5d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fc42459d-cede-4b03-8cd8-24d3f56e3f57",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "88d0887d-391c-4eac-ad22-3d78f087e07f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "4c117d43-ecbe-4497-aedd-ece529153a2e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b368db41-06a9-4b3d-9888-a89ba347afe6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8918818f-570d-4800-bb94-46c375ac5c7e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ef010244-575c-4930-8a8d-daa07a4c3005",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8ce270ad-41f1-41a1-8636-020dce6e3c01",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c1e4e89c-b768-4857-84e4-64d7e3e972b8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "36c69b0e-21fd-4722-88da-34eae4833d56",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "07764eea-fc5c-4f48-a2e2-6d984e66cf90",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8ae05542-a614-465e-bf0d-91c179f2e5ee",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "03c53aa2-6842-425b-966e-4fcf8c756a5d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "75fa25fe-69c9-48ce-ba9f-a5e053d7f5eb",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "59751062-da63-48b4-991e-effb7c0b6339",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "db12bb3c-8a34-466e-836c-e2dacc21c92f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "608b1f58-395c-45f5-a519-9a77155e45cc",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6082c366-5c9b-4d59-a79c-35e7d5e06d5b",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0babe02b-c8da-4665-887d-0fe9d21f21cf",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c0c2a376-e8a7-495a-b0cd-9c5ebf291e7c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0e210149-12bc-40f1-aed9-de91220caa0d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "63fea835-7028-4bde-9233-ac38b4391279",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "14f931a6-116e-4ae6-9fe8-f95e1a7bd0c5",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c9c27f79-1a13-426d-889e-6c9b4ab9b710",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c9cb925d-39bf-4c8c-8b89-05ff0c5c717f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "33d6a5d6-6521-417e-8804-28f480d645be",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f8c433d6-e386-4f26-b5f1-bb36846ef63f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7c7ebafc-513f-472a-871d-60e0da3631a8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "508ada0d-4f10-43b3-92d7-24c8878ddf31",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "de281c77-0106-4582-874f-da81691fd7ae",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "aa67c11e-0d3a-4e3f-a2ae-410edbb7c806",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7d3b9733-bfa0-4492-bc61-73705fe21a8c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c18dfb40-b3f4-40b7-9a23-b518704a819c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "cd101310-e7ff-473b-8493-f46a591ba862",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ad654ad4-9c21-49cd-8183-2a2316a28738",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0d6c4d96-699a-423f-88ea-a846c71c82e6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e252312f-645f-4a3b-9dd4-67098b3a1d17",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0282897a-8176-440f-8a16-ba5e704aba9e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "cdb37850-586d-41a5-a55a-1ed5803d6caf",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "72215855-c06c-4cde-b189-4d336ed1f39d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "bdea228e-8a1f-4a20-bc43-366154ac833c",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "1c1325f0-1630-4525-931d-4058714b7831",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ab0f112b-cfd0-4fdd-921a-72c1d801520f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a853cdff-3526-486e-a5c5-3231918cb38f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "37ad223c-3e16-4217-b22e-4a77edb6a05b",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "63dc5123-81e1-4471-85f2-9225dbeeff0f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2b4254f8-a34d-4662-aa66-b74f8107b55a",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "37a564d1-6468-4906-9e10-dc3e3566a5aa",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "8185539c-f86c-4723-82c5-eec5aaa84757",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "14e7c515-cda1-4a6c-8e77-5572b366dcb9",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "45c353de-d2ee-48f3-bc1b-e444eb71a0a2",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f3285329-5694-41ec-8609-4b93c9688892",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b0183d17-00fa-4171-aae0-91bf6769f2e6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "69a0ea90-6e92-4604-91ee-7ac06eb45bb6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fc133b44-9f4c-4769-ac2a-e56664241b94",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "26e8317e-2798-4fe5-959c-456693534302",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "db8196a1-9323-4815-b115-4bbb64d25ae2",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "80ecb905-2321-4f22-a084-9516bb5222a5",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c5d43c7d-ff62-4888-83f7-ed43b38ef526",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5f31c4ea-00c7-4e46-868b-510ecc288ba7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0b3229a4-655f-4977-9b3d-c05771c11a68",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "29303da2-2fc3-4866-b0d8-0dbc0581ed58",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9f227ead-7b89-4d46-a9fa-05a2b572bd4e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "73a8477f-8984-4231-89b1-7f2672484dcd",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3163f1f0-db9d-425d-a983-f881bb29ec12",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fd5d9b9f-e5a5-46e0-ba52-504c6acfe784",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c6f9a904-5e6f-4b71-b48e-ceeb7b430035",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "f929019a-668b-4021-8610-89edc0b948a0",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "843ce49c-a5ef-4044-a374-1ef2be493645",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "38f91ca8-a114-4884-818e-d2b0f9ca06f1",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ae380204-12d0-4456-8aeb-b60d6c99b9d8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "3fc344fb-04ca-4c2c-8d27-27009a416241",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fa353c40-7be6-42c6-b618-7ec1a5f12268",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "77252a73-32ec-4363-a671-8700a23abfcc",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "af73c680-5fd6-4303-b81b-fa21f3eafc61",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c743e03c-b8fa-4937-a9cf-f89cfa5d7fde",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "e6b60eda-493a-4b03-b1df-b83dc3ab38c3",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9c866a2e-ab70-4d0d-ba0a-3430be82ef4d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b9a13153-5a5e-458a-8ef5-82371cddbb3d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "fb5ddd87-ed84-4710-b94e-b5b98a191d7a",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "56308b51-a0f4-4283-92b1-dc44fc12a729",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "42f51d67-416e-4801-b9d1-b750849e0d99",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "647eb83f-408a-45f3-a4ca-9004a05f9245",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "42126811-8850-4391-b630-1f02dc841eef",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "faf9c6a2-8975-4f48-95c0-eb6c87b3c8f4",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5d4241e6-23de-4803-a00b-93e73fc4f9c5",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "16854c4d-64d8-47a8-9913-13cdfb801e35",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c43438a2-cf16-4e18-96dc-00fd095aba64",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "bd63234a-4ca7-4de2-ad83-8ee77ab4a6e0",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "25e39da1-c2d1-4eb0-8b24-1666c9232253",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2177b378-faaf-47b7-915b-86d3832a6b6e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a18578c4-864a-45c3-9af8-72fa0873afa7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "ec888882-e030-4eea-9e4d-131f89af1595",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c2f75e45-807f-44f1-8a89-6074751fa3de",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "7cb8db1f-23d5-4c3b-b4b2-5287d6e9d4f7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "440bec0d-aca9-4f96-9841-26b32dbc7d40",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "a25c064b-e7c4-47be-95b5-d40995ee35b0",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "d3f151b6-f725-4bd4-94f5-ec06a5675dcc",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "34b3c67d-17ac-4d57-96f2-67d1dbda49cd",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "b36eb767-f64c-45b4-9559-2d1febe588a8",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "081447f8-7068-4fbd-b330-7e654a22f63e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "1bb5018b-785a-4473-a685-92b2fc04147d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0bee0317-1d1e-46e4-8efc-e43e6cb3e008",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "2b8b5f0d-cd66-484d-9aa1-88d068a1d963",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "5c20f502-a184-43c2-bf26-5ebe1836acca",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "df10c119-9314-4c9c-b7d4-90058a4c567e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "9fbf7f55-82a7-409a-b6c5-11ccd28f5050",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "144bd85d-d02b-4f95-9271-c43e67dccc8d",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "550d8d46-469c-4a03-8305-26adf0c8c3cd",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "cfd87fd4-580b-40fe-bff7-a7011a620d50",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "0e3ae5b2-aaec-44f5-a7cb-ec1fff1c89e9",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "1bf30221-b75b-4e26-80f1-147d61dc418f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c57f5247-f1d7-49c7-87c8-b1692e40d7e0",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "dab90ac8-35c6-46d1-a0aa-87f5885c7a8f",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "791c9e70-633e-4a1d-9fb1-fdd402ee3ff7",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "6590d24a-6f53-43b2-811a-0f53466fe92e",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "04c45a90-8535-43b3-9ca9-3761f04ad3d6",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  },
+  {
+    "Id": "c964becd-ff75-4b27-b6cd-00c929bb8ede",
+    "Name": "New Item",
+    "Category": "New Category",
+    "Quantity": 5,
+    "ExpiryDate": "2024-06-03T00:00:00+03:00",
+    "CreationDate": "2024-05-04T00:00:00+03:00"
+  }
+]

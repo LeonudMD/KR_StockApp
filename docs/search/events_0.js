@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['propertychanged_0',['PropertyChanged',['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_controllers_1_1_analytics_controller.html#af61f9eac5c8b64f937bdb6996aa80856',1,'KR_SQLite_NewTry_2_MVC.Controllers.AnalyticsController.PropertyChanged'],['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_controllers_1_1_main_controller.html#ae5474fccb4a49b1be675cf50f7de34f8',1,'KR_SQLite_NewTry_2_MVC.Controllers.MainController.PropertyChanged'],['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_controllers_1_1_reports_controller.html#ad7d96f2201fe9cf4a7c05d2ca53862c2',1,'KR_SQLite_NewTry_2_MVC.Controllers.ReportsController.PropertyChanged'],['../class_k_r___s_q_lite___new_try__2___m_v_c_1_1_models_1_1_my_item.html#a716de611c6f2a0ca44f6a121659193ff',1,'KR_SQLite_NewTry_2_MVC.Models.MyItem.PropertyChanged']]]
+];
